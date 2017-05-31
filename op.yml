@@ -6,7 +6,7 @@ inputs:
       description: pkg to validate
 run:
   container:
-    cmd: [ pkg, validate, /pkg ]
+    cmd: [ opctl, pkg, validate, /pkg ]
     dirs: { /pkg: pkg }
     image: { ref: 'opctl/opctl:stable' }
 
