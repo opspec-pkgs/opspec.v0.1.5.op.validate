@@ -1,5 +1,5 @@
-description: validates an opspec package
-name: github.com/opspec-pkgs/opspec.pkg.validate
+description: validates an opspec 0.1.3 package
+name: github.com/opspec-pkgs/opspec0.1.3.pkg.validate
 inputs:
   pkg:
     dir:
