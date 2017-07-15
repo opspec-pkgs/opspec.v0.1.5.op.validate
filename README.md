@@ -1,7 +1,7 @@
-# problem statement
+# Problem statement
 validates an opspec package
 
-# example usage
+# Example usage
 
 > note: in examples, VERSION represents a version of the opspec.pkg.validate pkg
 
@@ -23,6 +23,12 @@ opctl run github.com/opspec-pkgs/opspec.pkg.validate#VERSION
 run:
   op:
     pkg: { ref: github.com/opspec-pkgs/opspec.pkg.validate#VERSION }
-    inputs: { pkg }
+    inputs:
+      pkg:
 ```
 
+
+# Support
+
+join us on [![Slack](https://opspec-slackin.herokuapp.com/badge.svg)](https://opspec-slackin.herokuapp.com/)
+or [open an issue](https://github.com/opspec-pkgs/opspec.pkg.validate/issues)
