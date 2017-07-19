@@ -20,11 +20,10 @@ opctl run github.com/opspec-pkgs/opspec.pkg.validate#VERSION
 ## compose
 
 ```yaml
-run:
-  op:
-    pkg: { ref: github.com/opspec-pkgs/opspec.pkg.validate#VERSION }
-    inputs:
-      pkg:
+op:
+  pkg: { ref: github.com/opspec-pkgs/opspec.pkg.validate#VERSION }
+  inputs:
+    pkg:
 ```
 
 
