@@ -26,7 +26,6 @@ op:
     pkg:
 ```
 
-
 # Support
 
 join us on [![Slack](https://opspec-slackin.herokuapp.com/badge.svg)](https://opspec-slackin.herokuapp.com/)
