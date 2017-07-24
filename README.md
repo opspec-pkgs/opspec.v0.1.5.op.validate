@@ -1,9 +1,13 @@
+[![Build Status](https://travis-ci.org/opspec-pkgs/opspec.pkg.validate.svg?branch=master)](https://travis-ci.org/opspec-pkgs/opspec.pkg.validate)
+
 # Problem statement
+
 validates an opspec package
 
 # Example usage
 
-> note: in examples, VERSION represents a version of the opspec.pkg.validate pkg
+> note: in examples, VERSION represents a version of the
+> opspec.pkg.validate pkg
 
 ## install
 
@@ -28,8 +32,10 @@ op:
 
 # Support
 
-join us on [![Slack](https://opspec-slackin.herokuapp.com/badge.svg)](https://opspec-slackin.herokuapp.com/)
-or [open an issue](https://github.com/opspec-pkgs/opspec.pkg.validate/issues)
+join us on
+[![Slack](https://opspec-slackin.herokuapp.com/badge.svg)](https://opspec-slackin.herokuapp.com/)
+or
+[open an issue](https://github.com/opspec-pkgs/opspec.pkg.validate/issues)
 
 # Releases
 
@@ -40,4 +46,5 @@ and [tagged](https://git-scm.com/book/en/v2/Git-Basics-Tagging); see
 
 # Contributing
 
-see [project/CONTRIBUTING.md](https://github.com/opspec-pkgs/project/blob/master/CONTRIBUTING.md)
+see
+[project/CONTRIBUTING.md](https://github.com/opspec-pkgs/project/blob/master/CONTRIBUTING.md)
