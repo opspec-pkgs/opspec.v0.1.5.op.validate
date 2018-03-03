@@ -8,6 +8,7 @@ version: 1.0.0
 run:
   container:
     cmd: [ opctl, pkg, validate, /pkg ]
-    dirs: { /pkg: pkg }
+    dirs:
+      /pkg: $(pkg)
     image: { ref: 'opctl/opctl:stable' }
 
