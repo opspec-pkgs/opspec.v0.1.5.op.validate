@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/opspec-pkgs/opspec.pkg.validate.svg?branch=master)](https://travis-ci.org/opspec-pkgs/opspec.pkg.validate)
 
+<img src="icon.svg" alt="icon" height="100px">
 
 # Problem statement
 
