@@ -4,7 +4,7 @@ inputs:
   pkg:
     dir:
       description: pkg to validate
-version: 1.0.0
+version: 2.0.0
 run:
   container:
     cmd: [ opctl, pkg, validate, /pkg ]
