@@ -5,11 +5,5 @@ All notable changes will be documented in this file in accordance with
 
 ## \[Unreleased]
 
-## \[2.0.0] - 2018-03-07
-
-### Removed
-
-- syntax deprecated in opspec v0.1.5 & v0.1.6 per [CHANGELOG](https://github.com/opspec-io/spec/blob/master/CHANGELOG.md)
-
-## \[1.0.0] - 2017-05-31
+## \[1.0.0] - 2018-03-07
 
