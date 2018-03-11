@@ -5,5 +5,11 @@ All notable changes will be documented in this file in accordance with
 
 ## \[Unreleased]
 
+## \[2.0.0] - 2018-03-07
+
+### Changed
+
+- rename `pkg` input to `op`
+
 ## \[1.0.0] - 2018-03-07
 

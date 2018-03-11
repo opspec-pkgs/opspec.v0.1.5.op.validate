@@ -1,14 +1,14 @@
-description: validates an opspec package
+description: validates an opspec operation
 name: github.com/opspec-pkgs/opspec.op.validate
 inputs:
-  pkg:
+  op:
     dir:
-      description: pkg to validate
-version: 1.0.0
+      description: operation to validate
+version: 2.0.0
 run:
   container:
-    cmd: [ opctl, pkg, validate, /pkg ]
+    cmd: [ opctl, pkg, validate, /op ]
     dirs:
-      /pkg: $(pkg)
+      /op: $(op)
     image: { ref: 'opctl/opctl:stable' }
 
