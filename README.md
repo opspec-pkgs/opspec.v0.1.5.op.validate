@@ -4,7 +4,7 @@
 
 # Problem statement
 
-validates an opspec operation
+validates an [opspec](https://opspec.io) op
 
 # Format
 

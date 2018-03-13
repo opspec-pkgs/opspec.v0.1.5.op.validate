@@ -1,9 +1,9 @@
-description: validates an opspec operation
+description: validates an [opspec](https://opspec.io) op
 name: github.com/opspec-pkgs/opspec.op.validate
 inputs:
   op:
     dir:
-      description: operation to validate
+      description: op to validate
 version: 2.0.0
 run:
   container:
