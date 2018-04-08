@@ -5,7 +5,7 @@ All notable changes will be documented in this file in accordance with
 
 ## \[Unreleased]
 
-## \[2.0.0] - 2018-03-07
+## \[2.0.0] - 2018-04-07
 
 ### Changed
 

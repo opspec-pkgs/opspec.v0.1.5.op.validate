@@ -1,14 +1,13 @@
-description: validates an [opspec](https://opspec.io) op
-name: github.com/opspec-pkgs/opspec.op.validate
+description: validates a v0.1.5 [opspec](https://opspec.io) op
+name: github.com/opspec-pkgs/opspec.v0.1.5.op.validate
 inputs:
   op:
     dir:
       description: op to validate
-version: 2.0.0
+version: 1.0.0
 run:
   container:
     cmd: [ opctl, pkg, validate, /op ]
     dirs:
       /op: $(op)
-    image: { ref: 'opctl/opctl:stable' }
-
+    image: { ref: 'opctl/opctl:0.1.23' }
