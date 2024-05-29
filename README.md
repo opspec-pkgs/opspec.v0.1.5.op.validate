@@ -1,3 +1,5 @@
+# Note) This op is deprecated in favor of [https://github.com/opspec-pkgs/opctl.op.validate](https://github.com/opspec-pkgs/opctl.op.validate)
+
 [![Build Status](https://travis-ci.org/opspec-pkgs/opspec.v0.1.5.op.validate.svg?branch=master)](https://travis-ci.org/opspec-pkgs/opspec.v0.1.5.op.validate)
 
 <img src="icon.svg" alt="icon" height="100px">
