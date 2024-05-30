@@ -1,3 +1,5 @@
+# Note) This op is deprecated in favor of [https://github.com/opspec-pkgs/opctl.op.validate](https://github.com/opspec-pkgs/opctl.op.validate)
+
 [![Build Status](https://github.com/opspec-pkgs/opspec.v0.1.5.op.validate/workflows/build/badge.svg?branch=main)](https://github.com/opspec-pkgs/opspec.v0.1.5.op.validate/actions?query=workflow%3Abuild+branch%3Amain)
 
 <img src="icon.svg" alt="icon" height="100px">
